@@ -1,0 +1,10 @@
+Value at 0 = 0
+Value at 1 = 2
+Value at 2 = 4
+Value at 3 = 6
+Value at 4 = 8
+Value at 5 = 10
+Value at 6 = 12
+Value at 7 = 14
+Value at 8 = 16
+Value at 9 = 18
